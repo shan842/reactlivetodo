@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactlivetodo/static/css/main.23eca037.chunk.css",
+    "main.js": "/reactlivetodo/static/js/main.2559b12b.chunk.js",
+    "main.js.map": "/reactlivetodo/static/js/main.2559b12b.chunk.js.map",
+    "runtime-main.js": "/reactlivetodo/static/js/runtime-main.823323be.js",
+    "runtime-main.js.map": "/reactlivetodo/static/js/runtime-main.823323be.js.map",
+    "static/js/2.fb2de133.chunk.js": "/reactlivetodo/static/js/2.fb2de133.chunk.js",
+    "static/js/2.fb2de133.chunk.js.map": "/reactlivetodo/static/js/2.fb2de133.chunk.js.map",
+    "index.html": "/reactlivetodo/index.html",
+    "static/css/main.23eca037.chunk.css.map": "/reactlivetodo/static/css/main.23eca037.chunk.css.map",
+    "static/js/2.fb2de133.chunk.js.LICENSE.txt": "/reactlivetodo/static/js/2.fb2de133.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.823323be.js",
+    "static/js/2.fb2de133.chunk.js",
+    "static/css/main.23eca037.chunk.css",
+    "static/js/main.2559b12b.chunk.js"
+  ]
+}
